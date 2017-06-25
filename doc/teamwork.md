@@ -29,3 +29,14 @@
 |      | 软件设计文档(SD)          | 100%     | -    | -    | -    |
 |      | 安装部署说明              | -        | 100% | -    | -    |
 
+
+
+## 表 3 GitHub 账号对应
+
+| GitHub 账号                               | 姓名   |
+| --------------------------------------- | ---- |
+| [MarkVo](https://github.com/MarkvO)     | 王禹尊  |
+| [Kinpzz](https://github.com/Kinpzz)     | 颜鹏翔  |
+| [SFYandSL](https://github.com/SFYandSL) | 时福源  |
+| [zhzdeng](https://github.com/zhzdeng)   | 钟洪桢  |
+
